@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "By Jarmusch",
+      "description": "American dishes with a European twist. Great choice for breakfast and lunch.",
+      "latitude": 51.92405290206466,
+      "longitude": 4.49298594163098,
+      "price": "$$",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "title": "Soi3",
+      "description": "Good value for your money. The flavors come quite close to how you can experience them in Thailand.",
+      "latitude": 51.920424210937696,
+      "longitude": 4.467732810940639,
+      "price": "$$",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "title": "Supermercado",
+      "description": "Nice place to go for a drink, as well as dinner. The food is okay, it's mostly the ambiance and vibes that attract people here.",
+      "latitude": 51.91602513774311,
+      "longitude": 4.4797033955952825,
+      "price": "$$",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "title": "Foodhallen",
+      "description": "A very comfortable atmosphere is found at the Foodhallen. You can order all sorts of dishes from different cuisines around the world. A little on the pricey side.",
+      "latitude": 51.905780198869735,
+      "longitude": 4.48880172947857,
+      "price": "$$$",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "title": "Héroine",
+      "description": "One of the more high-end hotspots. Mostly French with a little bit of inspiration taken from other cuisines. Beautiful retro decor.",
+      "latitude": 51.92380255371793,
+      "longitude": 4.491834726285884,
+      "price": "$$$$",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "title": "Hinoki",
+      "description": "All the ramen classics are available here. From tonkotsu black garlic to chicken shoyu.",
+      "latitude": 51.91981254352603,
+      "longitude": 4.484017256975828,
+      "price": "$$",
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "title": "Restaurant Rotonde",
+      "description": "Vibrant vegetarian dishes. A little high end, also very creative with combinations and presentation. They make use of local produce and vegetables.",
+      "latitude": 51.92409432942667,
+      "longitude": 4.491094751896746,
+      "price": "$$$",
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "title": "Tensai ramen",
+      "description": "Very pretty restaurant with an open kitchen. The ramen dishes on the menu consist of pretty creative combinations of already established classics.",
+      "latitude": 51.91755422189628,
+      "longitude": 4.481223233701066,
+      "price": "$$",
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "title": "Fafi",
+      "description": "A Surinamese joint that sells the best bara's in town. You can get all sorts of bara's or sandwiches here.",
+      "latitude": 51.915371546161005,
+      "longitude": 4.475363931847036,
+      "price": "$",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "title": "Gangnam Korean BBQ",
+      "description": "One of the cheaper spots to have kbbq at. Still pretty good and tasty.",
+      "latitude": 51.92245599371866,
+      "longitude": 4.494597846589074,
+      "price": "$$",
+      "favorite": false
+    }
+  ]
+}
